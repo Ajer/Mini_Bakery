@@ -1,0 +1,42 @@
+.horizontal{
+    display:inline;
+}
+
+.center_text
+{
+    text-align:center;
+}
+
+
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI';
+}
+
+  
+  /* visited link */
+  a,a:link,a:visited,a:active {
+    color: #258e8e
+  }
+  
+  
+
+/* .container {
+    overflow-x: auto;
+    width: 200px;
+}
+  
+.stories {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ } */
