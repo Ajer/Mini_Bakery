@@ -1,5 +1,7 @@
 body{ 
-     background-color:#e6e6e6; 
+     background-color:#e6e6e6;
+     /* font-family:'Segoe UI', Arial,Tahoma; */
+     font-family:Georgia, Arial,Tahoma;
 }
 
 .horizontal{
