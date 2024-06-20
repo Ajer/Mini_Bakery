@@ -12,10 +12,13 @@ body{
 }
 
 .hor_corr{
-   /* margin-left:-24px;
-   margin-top:-10px; */
+    margin-left:0px;
+   /*margin-top:-10px; */
 }
  
+.pic_corr{
+    margin-left:-15px;
+ }
 
 
 li a{

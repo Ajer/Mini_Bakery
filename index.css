@@ -14,10 +14,13 @@ body{
 }
 
 .hor_corr{
-  /*  margin-left:-30px;
-   margin-top:-10px; */
+    margin-left:0px;
+   /*margin-top:-10px; */
 }
  
+.pic_corr{
+   margin-left:0px;
+}
 
 #wrapper {
   height: 500px;        /* This wrapper sets the height for the page*/
