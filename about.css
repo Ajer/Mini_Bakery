@@ -12,15 +12,19 @@ body{
 }
 
 .hor_corr{
-   margin-left:-30px;
-   margin-top:-10px;
+   margin-left:-15px;
+   /*margin-top:-10px; */
 }
  
-
+#wrapper {
+    height: 500px;        /* This wrapper sets the height for the page*/
+    position: relative;
+  }
 
 li a{
     text-decoration: none;
     font-family: 'Segoe UI';
+    font-size: 16px;
 }
 
   

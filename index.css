@@ -1,10 +1,12 @@
 body{
-  font-family:'Segoe UI', Arial,Tahoma;
+    font-family:'Segoe UI', Arial,Tahoma;
+    /* height:100%; */
 }
+
 
 .horizontal{
     display:inline;
-}
+ } 
 
 .center_text
 {
@@ -12,24 +14,30 @@ body{
 }
 
 .hor_corr{
-   margin-left:-30px;
-   margin-top:-10px;
+  /*  margin-left:-30px;
+   margin-top:-10px; */
 }
  
+
+#wrapper {
+  height: 500px;        /* This wrapper sets the height for the page*/
+  position: relative;
+}
 
 
 li a{
     text-decoration: none;
     font-family: 'Segoe UI';
+    font-size: 16px;
 }
 
   
   /* visited link */
-  li a,li a:link,li a:visited,li a:active {
+li a,li a:link,li a:visited,li a:active {
     color: #258e8e
-  }
+}
   
-  .footer { 
+.footer { 
     position: absolute; 
     bottom: 0; 
     left: 0; 
@@ -39,6 +47,14 @@ li a{
 .list_style
 {
    list-style-type: none;
+}
+
+
+.center-div
+{
+  margin: 0 auto;
+  max-width: 700px;
+  height: 100px;
 }
 
 
