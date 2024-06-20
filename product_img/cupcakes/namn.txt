@@ -1,8 +1,24 @@
 
-c-feature-8.jpg     vanilla-chocolate
+c-feature-1.jpg     strawberry cupcake
 
-c-feature-9.jpg     raspberry
+c-feature-2.jpg     kiwi supreme
 
-c-feature-10.jpg    red_velvet
+c-feature-3.jpg     vanilla chocolate dream
 
-c-feature-11.jpg    vegan_strawberry
+c-feature-4.jpg     chocolate cupcake
+
+
+
+c-feature-5.jpg    red velvet
+
+c-feature-6.jpg    vegan strawberry
+
+
+
+c-feature-7.jpg     cherry vanilla chocolate
+
+c-feature-8.jpg     raspberry
+
+
+
+

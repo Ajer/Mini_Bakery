@@ -12,14 +12,26 @@ body{
 }
 
 .hor_corr{
-   margin-left:-15px;
+   margin-left:-5px;
    /*margin-top:-10px; */
 }
  
 #wrapper {
-    height: 500px;        /* This wrapper sets the height for the page*/
+    height: 700px;        /* This wrapper sets the height for the page*/
     position: relative;
   }
+
+
+.feature{
+  left:25%;
+  width:50%;
+  /* height:50%; */
+  background:rgba(233, 202, 233, 0.753);
+  position:absolute;
+  text-align:center;
+  margin-bottom:30px;
+}
+
 
 li a{
     text-decoration: none;
