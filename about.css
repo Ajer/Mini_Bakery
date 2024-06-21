@@ -18,8 +18,62 @@ body{
 }
  
 #wrapper {
-    height: 820px;        /* This wrapper sets the height for the page*/
+    height: 1150px;        /* This wrapper sets the height for the page*/
     position: relative;
+  }
+  @media only screen and (min-width: 300px) 
+  {
+    #wrapper {
+      height: 1050px;        /* This wrapper sets the height for the page, used to control footer*/
+      position: relative; 
+    }
+  }
+  @media only screen and (min-width: 340px) 
+  {
+    #wrapper {
+      height: 950px;        /* This wrapper sets the height for the page, used to control footer*/
+      position: relative; 
+    }
+  }
+
+  @media only screen and (min-width: 370px) 
+  {
+    #wrapper {
+      height: 870px;        /* This wrapper sets the height for the page, used to control footer*/
+      position: relative; 
+    }
+  }
+
+  @media only screen and (min-width: 450px) 
+  {
+    #wrapper {
+      height: 820px;        /* This wrapper sets the height for the page, used to control footer*/
+      position: relative; 
+    }
+  }
+
+  @media only screen and (min-width: 650px) 
+  {
+    #wrapper {
+      height: 720px;        /* This wrapper sets the height for the page, used to control footer*/
+      position: relative; 
+    }
+  }
+
+  @media only screen and (min-width: 735px) 
+  {
+    #wrapper {
+      height: 670px;        /* This wrapper sets the height for the page, used to control footer*/
+      position: relative; 
+    }
+  }
+
+  @media only screen and (min-width: 900px) 
+  {
+    #wrapper {
+      height: 620px;        /* This wrapper sets the height for the page, used to control footer*/
+      position: relative; 
+    }
   }
 
 
