@@ -20,7 +20,18 @@ body{
 #wrapper {
     height: 1150px;        /* This wrapper sets the height for the page*/
     position: relative;
-  }
+}
+
+.banner_area{
+  background-image: url("./product_img/banner-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  margin-left:-10px;
+  margin-right:-10px;
+}
+
+
   @media only screen and (min-width: 300px) 
   {
     #wrapper {

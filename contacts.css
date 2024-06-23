@@ -26,7 +26,7 @@ body{
   }
   
     
-    /* visited link */
+
 li a,li a:link,li a:visited,li a:active 
 {
       color: #258e8e
@@ -36,6 +36,36 @@ li a,li a:link,li a:visited,li a:active
     height: 350px;        /* This wrapper sets the height for the page*/
     position: relative;
 }
+
+.theBanner{
+    background-image: url("./product_img/banner-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  margin-left:-10px;
+  margin-right:-10px;
+}
+
+
+
+
+/* @media only screen and (min-width: 300px) 
+{
+    .theBanner{
+        min-width:100%;
+        height:auto;
+    }
+}
+
+@media only screen and (min-width: 450px) 
+{
+    .theBanner{
+        margin-left:-10px; 
+        margin-right:-10px; 
+        min-width:100%; 
+        height:auto;
+    } 
+} */
 
 .footer { 
     position: absolute; 
