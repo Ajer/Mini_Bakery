@@ -87,6 +87,15 @@ body{
     }
   }
 
+@media only screen and (min-height: 1220px) 
+{
+  #wrapper {
+    height: 850px;       
+    position: sticky;
+    bottom:0;
+    z-index: 999;
+  }
+}
 
 .feature_about{
   left:25%;
@@ -111,7 +120,7 @@ li a{
     color: #258e8e
   }
   
-  .footer { 
+.footer { 
     position: absolute; 
     bottom: 0; 
     left: 0; 
@@ -123,24 +132,3 @@ li a{
    list-style-type: none;
 }
 
-
-
-/* .container {
-    overflow-x: auto;
-    width: 200px;
-}
-  
-.stories {
-    display: flex;
-    list-style: none;
-    padding: 0;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-  }
-  
-.item {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
- } */

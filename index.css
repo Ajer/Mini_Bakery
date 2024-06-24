@@ -61,6 +61,23 @@ p::first-letter {
   }
 }
 
+@media only screen and (min-height: 1000px) 
+{
+  #wrapper {
+    height: 650px;       
+    position: relative; 
+  }
+}
+
+@media only screen and (min-height: 1220px) 
+{
+  #wrapper {
+    height: 850px;       
+    position: sticky;
+    bottom:0;
+    z-index: 999;
+  }
+}
 
 li a{
     text-decoration: none;
