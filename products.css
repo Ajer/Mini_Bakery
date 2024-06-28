@@ -4,6 +4,12 @@ body{
      font-family:Georgia, Arial,Tahoma;
 }
 
+.container-fluid.header_corr{
+    padding:0 !important;       /* container-fluid always have a 15 px padding . Overriding it makes white header extend 100%*/
+}
+
+
+
 .horizontal{
     display:inline;
 }
