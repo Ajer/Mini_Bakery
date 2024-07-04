@@ -21,7 +21,7 @@ body{
   
   li a{
       text-decoration: none;
-      font-family: 'Segoe UI';
+      font-family: 'Segoe UI','Noto Sans';
       font-size: 16px;
   }
   
